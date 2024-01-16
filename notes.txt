@@ -1,0 +1,15 @@
+
+ nvm use v20.10.0
+ Angular 8 tutorial UX trendz
+ https://www.youtube.com/watch?v=yObqRIgSogA&list=PLLhsXdvz0qjLB2i50KslcuwtQ_1d6BzhU
+https://console.firebase.google.com/
++ Add Project
+give project name
+disable Google Analytics
+create project
+inside build ---go to realtime database
+start in test mode now so that anyone can read and write
+
+In post method a new node is created with dynamin id
+
+In fetch user we have to change the method a bit as it has dynamic id now
